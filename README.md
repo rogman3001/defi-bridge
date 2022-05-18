@@ -1,5 +1,5 @@
 # Modern UI/UX GPT-3
-### [Live Site Thaks to Java Script Mastery Tutorial](https://gpt3-jsm.com/)
+### [Live Site Thanks to Java Script Mastery Tutorial](https://gpt3-jsm.com/)
 
 ![Modern UI/UX GPT-3](https://i.ibb.co/TR5LW9z/image.png)
 
